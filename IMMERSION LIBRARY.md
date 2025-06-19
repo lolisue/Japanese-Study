@@ -10,7 +10,7 @@
 - TBD
 
 # 小説：
-- アユマリン707R　Mission:02 前編
+- TBD
 
 # ゲーム：
-- TBD
+- アユマリン707R　Mission：02
