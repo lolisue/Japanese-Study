@@ -1,3 +1,9 @@
+# Tools used:
+- Migaku
+- Anki
+- Textractor
+- Netflix
+
 # テレビシリーズ・動画：
 - からかい上手の高木さん（実写版）
 - からかい上手の高木さん・シ﻿ー﻿ズ﻿ン﻿1（アニメ）
