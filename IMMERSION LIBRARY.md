@@ -1,8 +1,10 @@
 # Tools used:
 - Migaku
 - Anki
+- Yomitan
 - Textractor
 - Netflix
+- jpdb.io
 
 # テレビシリーズ・動画：
 - からかい上手の高木さん（実写版）
@@ -20,4 +22,3 @@
 
 # ゲーム：
 - クレヨンしんちゃん「炭の町のシロ」
-- アユマリン707R　Mission：02
