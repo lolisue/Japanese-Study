@@ -1,10 +1,11 @@
 # Tools used:
-- Migaku
-- Anki
-- Yomitan
-- Textractor
-- Netflix
-- jpdb.io
+- Migaku (Immersion SRS)
+- Bunpro (Grammar SRS)
+- Anki (Vocab SRS)
+- Yomitan (Pop-up dict)
+- Textractor (Extract dialogues from games)
+- Netflix (Japanese subtitles, for Migaku)
+- jpdb.io (Comprehension difficulty on Japanese media)
 
 # テレビシリーズ・動画：
 - からかい上手の高木さん（実写版）
